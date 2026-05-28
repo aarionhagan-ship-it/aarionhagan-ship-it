@@ -1,7 +1,16 @@
+# Hi, I'm Aarion 👋
 
-<h1>Hi, I'm Aarion, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+I'm a beginner IT professional currently learning help desk support, networking, Windows, PowerShell, and cloud fundamentals.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 🧠 Skills I'm Learning
+- Help Desk Support
+- Computer Networking
+- Windows Troubleshooting
+- Active Directory Basics
+- PowerShell
+- Cloud Computing Basics
+
+## 🛠️ Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/aarionhagan-ship-it/osticket-prereqs)
@@ -9,11 +18,14 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aarionhagan-ship-it/configure-ad)
     
 
-<h2>🤳Connect with me:</h2>
+## 📚 Current Goals
+- Build my IT portfolio
+- Improve troubleshooting skills
+- Learn more about networking and cybersecurity
+- Prepare for entry-level IT/help desk roles
 
-[<img align="left" alt="Aarion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aarion | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 📫 Connect With Me
+- LinkedIn:www.linkedin.com/in/aarion-hagan-7382993b7/
+- GitHub: github.com/your-username
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/arri
-[linkedin]: https://linkedin.com/in/aarionhagan
+
