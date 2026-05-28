@@ -26,6 +26,6 @@ Currently building hands-on skills in networking, cybersecurity, and cloud compu
 
 ## 📫 Connect With Me
 - LinkedIn:www.linkedin.com/in/aarion-hagan-7382993b7/
-- GitHub: github.com/your-username
+- GitHub: arionhagan-ship-it
 
 
