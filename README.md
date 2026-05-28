@@ -1,6 +1,6 @@
 # Hi, I'm Aarion 👋
-
-I'm a beginner IT professional currently learning help desk support, networking, Windows, PowerShell, and cloud fundamentals.
+🚛💻 IT student | Future Network & Systems Engineer
+Currently building hands-on skills in networking, cybersecurity, and cloud computing.
 
 ## 🧠 Skills I'm Learning
 - Help Desk Support
